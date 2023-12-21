@@ -1,5 +1,5 @@
-N.SUREKHA
-VU21CSEN0100369
+#N.SUREKHA
+#VU21CSEN0100369
 import matplotlib.pyplot as plt
 def quadratic_temperature_model(day, a, b, c):
       temperature = a * day**2 + b * day + c
