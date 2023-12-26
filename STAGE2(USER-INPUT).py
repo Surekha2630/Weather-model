@@ -19,4 +19,5 @@ def main():
     plt.ylabel('Temperature (°C)')
     plt.legend()
     plt.show()
-main()
+main() 
+# no errors are there in this code
